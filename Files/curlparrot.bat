@@ -1,0 +1,1 @@
+title curl parrot.live&color 7&mode con cols=50 lines=19&curl parrot.live

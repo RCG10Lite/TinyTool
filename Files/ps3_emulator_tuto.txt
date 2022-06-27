@@ -1,0 +1,45 @@
+First install the PS3 Emulator (RPCS3):                                                                        V1.03
+Official Website for download: https://rpcs3.net/download
+
+then install the BIOS/Firmware for the PS3 with the Link below:
+http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2022_0510_95307e1b51d3bcc33a274db91488d29f/PS3UPDAT.PUP
+
+then launch the emulator click on "file" and then click on "Install Firmware" then select the BIOS/Firmware File you installed and
+click enter then the BIOS gets installed, then your Emulator is ready for Games
+
+Search PS3Games?
+Websites to download Games:
+https://www.retrostic.com/roms/ps-3
+https://romsfun.com/roms/ps3
+
+Game recommendation:
+Plants Vs. Zombies Classic (On Emulator online functions for this game are making it Crash)
+
+V01.00 Full (Peggle&Heavy Weapon Build in) (Recommended Version)
+Media Fire: https://www.mediafire.com/file/o08kw3xwcahdgj2/Plants+vs.+Zombies+PS3+V01.00+Full.zip/file
+
+V01.01 Full
+Media Fire: https://www.mediafire.com/file/wucuddw4e0b8r3x/Plants+Vs.+Zombies+PS3+V01.01+Full.zip/file
+
+V01.01 Trial
+Media Fire: https://www.mediafire.com/file/5kpajfyfshntgsf/Plants+Vs.+Zombies+PS3+V01.01+Trial.pkg/file
+
+(If the Plant seeds not showing up, then try install and run the V01.01 trial and then the full version again, it should fix the Problem)
+
+
+Links list:
+
+Emulator:
+https://rpcs3.net/download
+
+direct link to Updated Firmware:
+http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2022_0510_95307e1b51d3bcc33a274db91488d29f/PS3UPDAT.PUP
+
+Roms Websites:
+https://www.retrostic.com/roms/ps-3
+https://romsfun.com/roms/ps3
+
+Game Recommendation (PVZ V01.00 Full PS3):
+https://www.mediafire.com/file/o08kw3xwcahdgj2/Plants+vs.+Zombies+PS3+V01.00+Full.zip/file
+
+
